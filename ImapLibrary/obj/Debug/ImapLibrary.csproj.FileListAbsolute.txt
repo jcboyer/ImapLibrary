@@ -3,3 +3,9 @@ C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.pdb
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.dll
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.pdb
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.dll
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibrary\bin\Debug\ImapLibrary.pdb
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.csproj.AssemblyReference.cache
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.csproj.CoreCompileInputs.cache
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.dll
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibrary\obj\Debug\ImapLibrary.pdb

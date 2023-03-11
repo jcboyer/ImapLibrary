@@ -5,3 +5,14 @@ C:\Users\rjoshi\Projects\ImapLibrary\ImapLibraryTest\bin\Debug\ImapLibrary.pdb
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibraryTest\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.exe
 C:\Users\rjoshi\Projects\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.pdb
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\bin\Debug\ImapLibraryTest.exe.config
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\bin\Debug\ImapLibraryTest.exe
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\bin\Debug\ImapLibraryTest.pdb
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\bin\Debug\ImapLibrary.dll
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\bin\Debug\ImapLibrary.pdb
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.csproj.AssemblyReference.cache
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.csproj.SuggestedBindingRedirects.cache
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.csproj.CoreCompileInputs.cache
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.csproj.CopyComplete
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.exe
+E:\Git_REPOS\YYZ_COMDA\ImapLibrary\ImapLibraryTest\obj\Debug\ImapLibraryTest.pdb
